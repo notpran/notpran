@@ -1,3 +1,7 @@
+new account btw, old account is @praneethprogame [got hacked and flagged by github]
+<br>
+<br>
+
 ## 💫 About Me:
 🔭 I’m currently working on [MCS(minecraft script)](github.com/notpran/mcslang)<br>🌱 I’m currently learning python and reactJS<br>🧊Visit a minecraft plugin i made! [Offline uptime](github.com/notpran/offline-uptime)<br>📫Contact me on discord, send me a message/friend request: not.pran<br>⚡ Fun fact me and discord have the same birthday[may 13th]
 
