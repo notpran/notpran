@@ -3,7 +3,7 @@ new account btw, old account is @praneethprogame [got hacked and flagged by gith
 <br>
 
 ## 💫 About Me:
-🌱 I’m currently learning python and reactJS<br>🧊Visit a minecraft plugin i made! [Offline uptime](github.com/notpran/offline-uptime)<br>📫Contact me on discord, send me a message/friend request: not.pran<br>⚡ Fun fact me and discord have the same birthday[may 13th]
+🌱 I’m currently learning C and operating systems<br>🧊Visit a minecraft plugin i made! [Offline uptime](github.com/notpran/offline-uptime)<br>📫Contact me on discord, send me a message/friend request: not.pran<br>⚡ Fun fact me and discord have the same birthday[may 13th]
 
 
 ## 🌐 Socials:
